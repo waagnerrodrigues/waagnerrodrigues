@@ -9,23 +9,21 @@
 
 ## 🧑‍💻 Tecnologias que utilizo no meu cotidiano:
 
-<div style="display: inline-block;"><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-</div>
-<div style="display: inline-block;"><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-</div>
-<div style="display: inline-block;"><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+<div style="display: inline_block">
+  <img align="center" alt="Wagner-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+  <img align="center" alt="Wagner-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
+  <img align="center" alt="Wagner-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 </div>
 
+<br>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waagnerrodrigues&layout=donut)](https://github.com/waagnerrodrigues/github-readme-stats)
 
 ## 📚 Tenho estudado as seguintes tecnologias:
 
 <div style="display: inline-block;"><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
+<img align="center" alt="Wagner-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
 </div>
 
-### 🎓 Graduando em Análise e Desenvolvimento de Sistemas:
+## 🎓 Graduando em Análise e Desenvolvimento de Sistemas:
 *Paralelamente aos meus estudos autodidatas, estou cursando uma graduação em Análise e Desenvolvimento de Sistemas. Esta experiência acadêmica tem me proporcionado uma base sólida em conceitos fundamentais de programação, algoritmos, e design de software, que eu aplico em meus projetos práticos.*
